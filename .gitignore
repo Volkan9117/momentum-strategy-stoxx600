@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environnement virtuel
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache joblib (peut être lourd)
+*.joblib
+cache/
+
+# Variables d'environnement (clés API)
+.env

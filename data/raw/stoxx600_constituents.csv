@@ -1,0 +1,604 @@
+ticker_blackrock,yahoo_ticker,nom,secteur,ponderation_pct,pays,bourse,devise
+ASML,ASML.AS,ASML HOLDING NV,Technologie de l'information,4.13536,Pays-Bas,Euronext Amsterdam,EUR
+HSBA,HSBA.L,HSBC HOLDINGS PLC,Finance,2.09339,Royaume-Uni,London Stock Exchange,GBP
+ROP,ROP.SW,ROCHE PS PAR AG,Santé,1.93532,Suisse,SIX Swiss Exchange,CHF
+NOVN,NOVN.SW,NOVARTIS AG,Santé,1.8859,Suisse,SIX Swiss Exchange,CHF
+AZN,AZN.L,ASTRAZENECA PLC,Santé,1.88264,Royaume-Uni,London Stock Exchange,GBP
+NESN,NESN.SW,NESTLE SA,Biens de consommation de base,1.72519,Suisse,SIX Swiss Exchange,CHF
+SHELL,SHELL.AS,SHELL PLC,Energie,1.57635,Royaume-Uni,Euronext Amsterdam,EUR
+SIE,SIE.DE,SIEMENS N AG,Industries,1.56314,Allemagne,Xetra,EUR
+TTE,TTE.PA,TOTALENERGIES,Energie,1.2641,France,Nyse Euronext - Euronext Paris,EUR
+SAN,SAN.MC,BANCO SANTANDER,Finance,1.20413,Espagne,Bolsa De Madrid,EUR
+SAP,SAP.DE,SAP,Technologie de l'information,1.18555,Allemagne,Xetra,EUR
+SU,SU.PA,SCHNEIDER ELECTRIC,Industries,1.18145,France,Nyse Euronext - Euronext Paris,EUR
+ALV,ALV.DE,ALLIANZ,Finance,1.10787,Allemagne,Xetra,EUR
+ABBN,ABBN.SW,ABB LTD,Industries,1.10419,Suisse,SIX Swiss Exchange,CHF
+ENR,ENR.DE,SIEMENS ENERGY N AG,Industries,0.98873,Allemagne,Xetra,EUR
+RR.,RR..L,ROLLS-ROYCE HOLDINGS PLC,Industries,0.97913,Royaume-Uni,London Stock Exchange,GBP
+NOVO B,NOVO-B.CO,NOVO NORDISK CLASS B,Santé,0.97009,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+UBSG,UBSG.SW,UBS GROUP AG,Finance,0.9485,Suisse,SIX Swiss Exchange,CHF
+IBE,IBE.MC,IBERDROLA SA,Services publics,0.92979,Espagne,Bolsa De Madrid,EUR
+MC,MC.PA,LVMH,Biens de consommation cycliques,0.91918,France,Nyse Euronext - Euronext Paris,EUR
+BATS,BATS.L,BRITISH AMERICAN TOBACCO,Biens de consommation de base,0.90272,Royaume-Uni,London Stock Exchange,GBP
+BBVA,BBVA.MC,BANCO BILBAO VIZCAYA ARGENTARIA SA,Finance,0.87066,Espagne,Bolsa De Madrid,EUR
+SAF,SAF.PA,SAFRAN SA,Industries,0.85549,France,Nyse Euronext - Euronext Paris,EUR
+UCG,UCG.MI,UNICREDIT,Finance,0.84101,Italie,Borsa Italiana,EUR
+ULVR,ULVR.L,UNILEVER PLC,Biens de consommation de base,0.82332,Royaume-Uni,London Stock Exchange,GBP
+AI,AI.PA,LAIR LIQUIDE SOCIETE ANONYME POUR,Matériaux,0.80567,France,Nyse Euronext - Euronext Paris,EUR
+AIR,AIR.PA,AIRBUS GROUP,Industries,0.80247,France,Nyse Euronext - Euronext Paris,EUR
+IFX,IFX.DE,INFINEON TECHNOLOGIES AG,Technologie de l'information,0.80131,Allemagne,Xetra,EUR
+DTE,DTE.DE,DEUTSCHE TELEKOM N AG,La communication,0.78224,Allemagne,Xetra,EUR
+RIO,RIO.L,RIO TINTO PLC,Matériaux,0.75284,Royaume-Uni,London Stock Exchange,GBP
+BP.,BP..L,BP PLC,Energie,0.7496,Royaume-Uni,London Stock Exchange,GBP
+CFR,CFR.SW,COMPAGNIE FINANCIERE RICHEMONT SA,Biens de consommation cycliques,0.74326,Suisse,SIX Swiss Exchange,CHF
+BNP,BNP.PA,BNP PARIBAS SA,Finance,0.73235,France,Nyse Euronext - Euronext Paris,EUR
+OR,OR.PA,LOREAL SA,Biens de consommation de base,0.70891,France,Nyse Euronext - Euronext Paris,EUR
+GSK,GSK.L,GLAXOSMITHKLINE,Santé,0.69285,Royaume-Uni,London Stock Exchange,GBP
+ZURN,ZURN.SW,ZURICH INSURANCE GROUP AG,Finance,0.68228,Suisse,SIX Swiss Exchange,CHF
+ISP,ISP.MI,INTESA SANPAOLO,Finance,0.67598,Italie,Borsa Italiana,EUR
+SAN,SAN.PA,SANOFI SA,Santé,0.66115,France,Nyse Euronext - Euronext Paris,EUR
+INGA,INGA.AS,ING GROEP NV,Finance,0.59255,Pays-Bas,Euronext Amsterdam,EUR
+ENEL,ENEL.MI,ENEL,Services publics,0.57255,Italie,Borsa Italiana,EUR
+NG.,NG..L,NATIONAL GRID PLC,Services publics,0.56014,Royaume-Uni,London Stock Exchange,GBP
+ABI,ABI.BR,ANHEUSER-BUSCH INBEV SA,Biens de consommation de base,0.55802,Belgique,Nyse Euronext - Euronext Brussels,EUR
+NOKIA,NOKIA.HE,NOKIA,Technologie de l'information,0.55531,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+DG,DG.PA,VINCI SA,Industries,0.55392,France,Nyse Euronext - Euronext Paris,EUR
+BARC,BARC.L,BARCLAYS PLC,Finance,0.55017,Royaume-Uni,London Stock Exchange,GBP
+CS,CS.PA,AXA SA,Finance,0.53735,France,Nyse Euronext - Euronext Paris,EUR
+BA.,BA..L,BAE SYSTEMS PLC,Industries,0.53477,Royaume-Uni,London Stock Exchange,GBP
+LLOY,LLOY.L,LLOYDS BANKING GROUP PLC,Finance,0.52431,Royaume-Uni,London Stock Exchange,GBP
+INVE B,INVE-B.ST,INVESTOR CLASS B,Finance,0.48838,Suède,Nasdaq Omx Nordic,SEK
+GLEN,GLEN.L,GLENCORE PLC,Matériaux,0.48062,Royaume-Uni,London Stock Exchange,GBP
+MUV2,MUV2.DE,MUENCHENER RUECKVERSICHERUNGS-GESE,Finance,0.46157,Allemagne,Xetra,EUR
+ITX,ITX.MC,INDUSTRIA DE DISENO TEXTIL SA,Biens de consommation cycliques,0.45809,Espagne,Bolsa De Madrid,EUR
+RHM,RHM.DE,RHEINMETALL AG,Industries,0.45449,Allemagne,Xetra,EUR
+RMS,RMS.PA,HERMES INTERNATIONAL,Biens de consommation cycliques,0.44048,France,Nyse Euronext - Euronext Paris,EUR
+NDA FI,NDA-FI.HE,NORDEA BANK,Finance,0.42992,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+NWG,NWG.L,NATWEST GROUP PLC,Finance,0.42827,Royaume-Uni,London Stock Exchange,GBP
+EL,EL.PA,ESSILORLUXOTTICA SA,Santé,0.42051,France,Nyse Euronext - Euronext Paris,EUR
+DBK,DBK.DE,DEUTSCHE BANK AG,Finance,0.41405,Allemagne,Xetra,EUR
+GLE,GLE.PA,SOCIETE GENERALE SA,Finance,0.41014,France,Nyse Euronext - Euronext Paris,EUR
+REL,REL.L,RELX PLC,Industries,0.39636,Royaume-Uni,London Stock Exchange,GBP
+LSEG,LSEG.L,LONDON STOCK EXCHANGE GROUP PLC,Finance,0.39267,Royaume-Uni,London Stock Exchange,GBP
+AAL,AAL.L,ANGLO AMERICAN PLC,Matériaux,0.38872,Royaume-Uni,London Stock Exchange,GBP
+ENGI,ENGI.PA,ENGIE SA,Services publics,0.38,France,Nyse Euronext - Euronext Paris,EUR
+DHL,DHL.DE,DEUTSCHE POST AG,Industries,0.37406,Allemagne,Xetra,EUR
+CPG,CPG.L,COMPASS GROUP PLC,Biens de consommation cycliques,0.37239,Royaume-Uni,London Stock Exchange,USD
+PRX,PRX.AS,PROSUS NV CLASS N,Biens de consommation cycliques,0.36619,Pays-Bas,Euronext Amsterdam,EUR
+VOLV B,VOLV-B.ST,VOLVO CLASS B,Industries,0.36199,Suède,Nasdaq Omx Nordic,SEK
+DB1,DB1.DE,DEUTSCHE BOERSE AG,Finance,0.35551,Allemagne,Xetra,EUR
+BAS,BAS.DE,BASF N,Matériaux,0.34423,Allemagne,Xetra,EUR
+ARGX,ARGX.BR,ARGENX,Santé,0.34326,Belgique,Nyse Euronext - Euronext Brussels,EUR
+HOLN,HOLN.SW,HOLCIM LTD AG,Matériaux,0.34188,Suisse,SIX Swiss Exchange,CHF
+PRY,PRY.MI,PRYSMIAN,Industries,0.33977,Italie,Borsa Italiana,EUR
+ASM,ASM.AS,ASM INTERNATIONAL NV,Technologie de l'information,0.33854,Pays-Bas,Euronext Amsterdam,EUR
+ENI,ENI.MI,ENI,Energie,0.33432,Italie,Borsa Italiana,EUR
+ATCO A,ATCO-A.ST,ATLAS COPCO CLASS A,Industries,0.32559,Suède,Nasdaq Omx Nordic,SEK
+G,G.MI,ASSICURAZIONI GENERALI,Finance,0.31924,Italie,Borsa Italiana,EUR
+DSV,DSV.CO,DSV,Industries,0.31788,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+STAN,STAN.L,STANDARD CHARTERED PLC,Finance,0.31444,Royaume-Uni,London Stock Exchange,GBP
+DGE,DGE.L,DIAGEO PLC,Biens de consommation de base,0.31349,Royaume-Uni,London Stock Exchange,GBP
+EOAN,EOAN.DE,E.ON N,Services publics,0.30959,Allemagne,Xetra,EUR
+CABK,CABK.MC,CAIXABANK SA,Finance,0.30846,Espagne,Bolsa De Madrid,EUR
+BN,BN.PA,DANONE SA,Biens de consommation de base,0.30546,France,Nyse Euronext - Euronext Paris,EUR
+STMMI,STMMI.MI,STMICROELECTRONICS NV,Technologie de l'information,0.30438,France,Borsa Italiana,EUR
+LR,LR.PA,LEGRAND SA,Industries,0.29684,France,Nyse Euronext - Euronext Paris,EUR
+LONN,LONN.SW,LONZA GROUP AG,Santé,0.2958,Suisse,SIX Swiss Exchange,CHF
+SGO,SGO.PA,COMPAGNIE DE SAINT GOBAIN SA,Industries,0.29501,France,Nyse Euronext - Euronext Paris,EUR
+MBG,MBG.DE,MERCEDES-BENZ GROUP N AG,Biens de consommation cycliques,0.29402,Allemagne,Xetra,EUR
+SREN,SREN.SW,SWISS RE AG,Finance,0.29344,Suisse,SIX Swiss Exchange,CHF
+SAND,SAND.ST,SANDVIK,Industries,0.28429,Suède,Nasdaq Omx Nordic,SEK
+BAYN,BAYN.DE,BAYER AG,Santé,0.28427,Allemagne,Xetra,EUR
+RWE,RWE.DE,RWE AG,Services publics,0.28285,Allemagne,Xetra,EUR
+RKT,RKT.L,RECKITT BENCKISER GROUP PLC,Biens de consommation de base,0.27858,Royaume-Uni,London Stock Exchange,GBP
+ORA,ORA.PA,ORANGE SA,La communication,0.27219,France,Nyse Euronext - Euronext Paris,EUR
+RACE,RACE.MI,FERRARI NV,Biens de consommation cycliques,0.27198,Italie,Borsa Italiana,EUR
+HLN,HLN.L,HALEON PLC,Santé,0.27028,Royaume-Uni,London Stock Exchange,GBP
+SSE,SSE.L,SSE PLC,Services publics,0.259,Royaume-Uni,London Stock Exchange,GBP
+TSCO,TSCO.L,TESCO PLC,Biens de consommation de base,0.25064,Royaume-Uni,London Stock Exchange,GBP
+AD,AD.AS,KONINKLIJKE AHOLD DELHAIZE NV,Biens de consommation de base,0.24737,Pays-Bas,Euronext Amsterdam,EUR
+ERIC B,ERIC-B.ST,ERICSSON B,Technologie de l'information,0.24478,Suède,Nasdaq Omx Nordic,SEK
+PRU,PRU.L,PRUDENTIAL PLC,Finance,0.24399,Royaume-Uni,London Stock Exchange,GBP
+SDZ,SDZ.SW,SANDOZ GROUP AG,Santé,0.23841,Suisse,SIX Swiss Exchange,CHF
+ASSA B,ASSA-B.ST,ASSA ABLOY B,Industries,0.23423,Suède,Nasdaq Omx Nordic,SEK
+EBS,EBS.VI,ERSTE GROUP BANK AG,Finance,0.23272,Autriche,Wiener Boerse Ag,EUR
+UCB,UCB.BR,UCB SA,Santé,0.23114,Belgique,Nyse Euronext - Euronext Brussels,EUR
+ADS,ADS.DE,ADIDAS N AG,Biens de consommation cycliques,0.22916,Allemagne,Xetra,EUR
+FER,FER.MC,FERROVIAL NV,Industries,0.22245,Espagne,Bolsa De Madrid,EUR
+ADYEN,ADYEN.AS,ADYEN NV,Finance,0.22188,Pays-Bas,Euronext Amsterdam,EUR
+SWED A,SWED-A.ST,SWEDBANK,Finance,0.21943,Suède,Nasdaq Omx Nordic,SEK
+ALC,ALC.SW,ALCON AG,Santé,0.21866,Suisse,SIX Swiss Exchange,CHF
+DANSKE,DANSKE.CO,DANSKE BANK,Finance,0.21755,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+SUNB,SUNB.L,SUNBELT RENTALS HOLDINGS INC,Industries,0.21558,Royaume-Uni,London Stock Exchange,GBP
+GALD,GALD.SW,GALDERMA GROUP N AG,Santé,0.21195,Suisse,SIX Swiss Exchange,CHF
+EXPN,EXPN.L,EXPERIAN PLC,Industries,0.20939,Royaume-Uni,London Stock Exchange,GBP
+SEB A,SEB-A.ST,SKANDINAVISKA ENSKILDA BANKEN,Finance,0.20932,Suède,Nasdaq Omx Nordic,SEK
+SIKA,SIKA.SW,SIKA AG,Matériaux,0.20725,Suisse,SIX Swiss Exchange,CHF
+SLHN,SLHN.SW,SWISS LIFE HOLDING AG,Finance,0.20575,Suisse,SIX Swiss Exchange,CHF
+EQNR,EQNR.OL,EQUINOR,Energie,0.20173,Norvège,Oslo Bors Asa,NOK
+MT,MT.AS,ARCELORMITTAL SA,Matériaux,0.19939,France,Euronext Amsterdam,EUR
+ACS,ACS.MC,ACS ACTIVIDADES DE CONSTRUCCION Y,Industries,0.19751,Espagne,Bolsa De Madrid,EUR
+EQT,EQT.ST,EQT,Finance,0.19744,Suède,Nasdaq Omx Nordic,SEK
+III,III.L,3I GROUP PLC,Finance,0.19687,Royaume-Uni,London Stock Exchange,GBP
+CBK,CBK.DE,COMMERZBANK AG,Finance,0.19627,Allemagne,Xetra,EUR
+KBC,KBC.BR,KBC GROEP,Finance,0.18958,Belgique,Nyse Euronext - Euronext Brussels,EUR
+GIVN,GIVN.SW,GIVAUDAN SA,Matériaux,0.18908,Suisse,SIX Swiss Exchange,CHF
+VOD,VOD.L,VODAFONE GROUP PLC,La communication,0.18829,Royaume-Uni,London Stock Exchange,GBP
+AMS,AMS.MC,AMADEUS IT GROUP SA,Biens de consommation cycliques,0.185,Espagne,Bolsa De Madrid,EUR
+IMB,IMB.L,IMPERIAL BRANDS PLC,Biens de consommation de base,0.18306,Royaume-Uni,London Stock Exchange,GBP
+REP,REP.MC,REPSOL SA,Energie,0.1821,Espagne,Bolsa De Madrid,EUR
+VWS,VWS.CO,VESTAS WIND SYSTEMS,Industries,0.18025,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+DNB,DNB.OL,DNB BANK,Finance,0.17978,Norvège,Oslo Bors Asa,NOK
+HEI,HEI.DE,HEIDELBERG MATERIALS AG,Matériaux,0.17871,Allemagne,Xetra,EUR
+VIE,VIE.PA,VEOLIA ENVIRON. SA,Services publics,0.17838,France,Nyse Euronext - Euronext Paris,EUR
+HO,HO.PA,THALES SA,Industries,0.17758,France,Nyse Euronext - Euronext Paris,EUR
+SAMPO,SAMPO.HE,SAMPO CLASS A,Finance,0.17536,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+DTG,DTG.DE,DAIMLER TRUCK HOLDING E AG,Industries,0.17314,Allemagne,Xetra,EUR
+AV.,AV..L,AVIVA PLC,Finance,0.16676,Royaume-Uni,London Stock Exchange,GBP
+UMG,UMG.AS,UNIVERSAL MUSIC GROUP NV,La communication,0.16486,Pays-Bas,Euronext Amsterdam,EUR
+ML,ML.PA,MICHELIN,Biens de consommation cycliques,0.16478,France,Nyse Euronext - Euronext Paris,EUR
+BESI,BESI.AS,BE SEMICONDUCTOR INDUSTRIES NV,Technologie de l'information,0.16457,Pays-Bas,Euronext Amsterdam,EUR
+LDO,LDO.MI,LEONARDO FINMECCANICA SPA,Industries,0.16448,Italie,Borsa Italiana,EUR
+PKO,PKO.WA,POWSZECHNA KASA OSZCZEDNOSCI BANK,Finance,0.16205,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+ABN,ABN.AS,ABN AMRO BANK NV,Finance,0.16096,Pays-Bas,Euronext Amsterdam,EUR
+BMW,BMW.DE,BMW AG,Biens de consommation cycliques,0.16013,Allemagne,Xetra,EUR
+PGHN,PGHN.SW,PARTNERS GROUP HOLDING AG,Finance,0.15881,Suisse,SIX Swiss Exchange,CHF
+A5G,A5G.IR,AIB GROUP PLC,Finance,0.15745,Irlande,Irish Stock Exchange - All Market,EUR
+RYA,RYA.IR,RYANAIR HOLDINGS PLC,Industries,0.15654,Irlande,Irish Stock Exchange - All Market,EUR
+HLMA,HLMA.L,HALMA PLC,Technologie de l'information,0.15572,Royaume-Uni,London Stock Exchange,GBP
+IHG,IHG.L,INTERCONTINENTAL HOTELS GROUP PLC,Biens de consommation cycliques,0.1553,Royaume-Uni,London Stock Exchange,USD
+BMPS,BMPS.MI,BANCA MONTE DEI PASCHI DI SIENA SP,Finance,0.15514,Italie,Borsa Italiana,EUR
+SHB A,SHB-A.ST,SVENSKA HANDELSBANKEN-A SHS,Finance,0.15355,Suède,Nasdaq Omx Nordic,SEK
+KNEBV,KNEBV.HE,KONE,Industries,0.15317,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+HEIA,HEIA.AS,HEINEKEN NV,Biens de consommation de base,0.15289,Pays-Bas,Euronext Amsterdam,EUR
+PUB,PUB.PA,PUBLICIS GROUPE SA,La communication,0.1514,France,Nyse Euronext - Euronext Paris,EUR
+PKN,PKN.WA,ORLEN SA,Energie,0.1484,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+GEBN,GEBN.SW,GEBERIT AG,Industries,0.14667,Suisse,SIX Swiss Exchange,CHF
+SCMN,SCMN.SW,SWISSCOM AG,La communication,0.14438,Suisse,SIX Swiss Exchange,CHF
+VOW3,VOW3.DE,VOLKSWAGEN NON-VOTING PREF AG,Biens de consommation cycliques,0.14389,Allemagne,Xetra,EUR
+NN,NN.AS,NN GROUP NV,Finance,0.14274,Pays-Bas,Euronext Amsterdam,EUR
+NXT,NXT.L,NEXT PLC,Biens de consommation cycliques,0.14152,Royaume-Uni,London Stock Exchange,GBP
+ANTO,ANTO.L,ANTOFAGASTA PLC,Matériaux,0.14059,Royaume-Uni,London Stock Exchange,GBP
+ACA,ACA.PA,CREDIT AGRICOLE SA,Finance,0.1387,France,Nyse Euronext - Euronext Paris,EUR
+VACN,VACN.SW,VAT GROUP AG,Industries,0.13787,Suisse,SIX Swiss Exchange,CHF
+AENA,AENA.MC,AENA SME SA,Industries,0.13623,Espagne,Bolsa De Madrid,EUR
+KPN,KPN.AS,KONINKLIJKE KPN NV,La communication,0.13527,Pays-Bas,Euronext Amsterdam,EUR
+NSIS B,NSIS-B.CO,NOVOZYMES B,Matériaux,0.13524,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+KER,KER.PA,KERING SA,Biens de consommation cycliques,0.13503,France,Nyse Euronext - Euronext Paris,EUR
+SAAB B,SAAB-B.ST,SAAB CLASS B,Industries,0.13437,Suède,Nasdaq Omx Nordic,SEK
+PHIA,PHIA.AS,KONINKLIJKE PHILIPS NV,Santé,0.13384,Pays-Bas,Euronext Amsterdam,EUR
+LGEN,LGEN.L,LEGAL AND GENERAL GROUP PLC,Finance,0.13347,Royaume-Uni,London Stock Exchange,GBP
+CAP,CAP.PA,CAPGEMINI,Technologie de l'information,0.13313,France,Nyse Euronext - Euronext Paris,EUR
+HBAN,HBAN.SW,HELVETIA BALOISE HOLDING N AG,Finance,0.133,Suisse,SIX Swiss Exchange,CHF
+MTX,MTX.DE,MTU AERO ENGINES HOLDING AG,Industries,0.13261,Allemagne,Xetra,EUR
+WRT1V,WRT1V.HE,WARTSILA,Industries,0.1311,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+BPE,BPE.MI,BPER BANCA,Finance,0.13056,Italie,Borsa Italiana,EUR
+MRK,MRK.DE,MERCK,Santé,0.13035,Allemagne,Xetra,EUR
+HEXA B,HEXA-B.ST,HEXAGON CLASS B,Technologie de l'information,0.12851,Suède,Nasdaq Omx Nordic,SEK
+VNA,VNA.DE,VONOVIA SE,Immobilier,0.12452,Allemagne,Xetra,EUR
+SGSN,SGSN.SW,SGS SA,Industries,0.12331,Suisse,SIX Swiss Exchange,CHF
+EPI A,EPI-A.ST,EPIROC CLASS A,Industries,0.12269,Suède,Nasdaq Omx Nordic,SEK
+BIRG,BIRG.IR,BANK OF IRELAND GROUP PLC,Finance,0.12092,Irlande,Irish Stock Exchange - All Market,EUR
+BOL,BOL.ST,BOLIDEN,Matériaux,0.11526,Suède,Nasdaq Omx Nordic,SEK
+BAMI,BAMI.MI,BANCO BPM,Finance,0.11519,Italie,Borsa Italiana,EUR
+FRE,FRE.DE,FRESENIUS SE AND CO KGAA,Santé,0.11511,Allemagne,Xetra,EUR
+TEF,TEF.MC,TELEFONICA SA,La communication,0.11341,Espagne,Bolsa De Madrid,EUR
+BT.A,BT.A.L,BT GROUP PLC,La communication,0.11293,Royaume-Uni,London Stock Exchange,GBP
+WKL,WKL.AS,WOLTERS KLUWER NV,Industries,0.11108,Pays-Bas,Euronext Amsterdam,EUR
+HNR1,HNR1.DE,HANNOVER RUECK,Finance,0.11084,Allemagne,Xetra,EUR
+GMAB,GMAB.CO,GENMAB,Santé,0.11074,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+STLAM,STLAM.MI,STELLANTIS NV,Biens de consommation cycliques,0.11027,Italie,Borsa Italiana,EUR
+SAB,SAB.MC,BANCO DE SABADELL SA,Finance,0.11014,Espagne,Bolsa De Madrid,EUR
+ESSITY B,ESSITY-B.ST,ESSITY CLASS B,Biens de consommation de base,0.10934,Suède,Nasdaq Omx Nordic,SEK
+TRN,TRN.MI,TERNA RETE ELETTRICA NAZIONALE,Services publics,0.10798,Italie,Borsa Italiana,EUR
+BAER,BAER.SW,JULIUS BAER GRUPPE AG,Finance,0.10755,Suisse,SIX Swiss Exchange,CHF
+NHY,NHY.OL,NORSK HYDRO,Matériaux,0.10715,Norvège,Oslo Bors Asa,NOK
+CLNX,CLNX.MC,CELLNEX TELECOM,La communication,0.1068,Espagne,Bolsa De Madrid,EUR
+ALFA,ALFA.ST,ALFA LAVAL,Industries,0.10575,Suède,Nasdaq Omx Nordic,SEK
+DSY,DSY.PA,DASSAULT SYSTEMES,Technologie de l'information,0.10528,France,Nyse Euronext - Euronext Paris,EUR
+LOGN,LOGN.SW,LOGITECH INTERNATIONAL SA,Technologie de l'information,0.10492,Suisse,SIX Swiss Exchange,CHF
+KOG,KOG.OL,KONGSBERG GRUPPEN,Industries,0.10454,Norvège,Oslo Bors Asa,NOK
+EN,EN.PA,BOUYGUES SA,Industries,0.10299,France,Nyse Euronext - Euronext Paris,EUR
+UPM,UPM.HE,UPM-KYMMENE,Matériaux,0.10142,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+EDP,EDP.LS,EDP ENERGIAS DE PORTUGAL SA,Services publics,0.10074,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+SHL,SHL.DE,SIEMENS HEALTHINEERS AG,Santé,0.09954,Allemagne,Xetra,EUR
+RTO,RTO.L,RENTOKIL INITIAL PLC,Industries,0.09938,Royaume-Uni,London Stock Exchange,GBP
+MONC,MONC.MI,MONCLER,Biens de consommation cycliques,0.09876,Italie,Borsa Italiana,EUR
+SRG,SRG.MI,SNAM,Services publics,0.09712,Italie,Borsa Italiana,EUR
+RI,RI.PA,PERNOD RICARD SA,Biens de consommation de base,0.09613,France,Nyse Euronext - Euronext Paris,EUR
+FBK,FBK.MI,FINECOBANK BANCA FINECO,Finance,0.096,Italie,Borsa Italiana,EUR
+DSFIR,DSFIR.AS,DSM FIRMENICH AG,Matériaux,0.09529,Pays-Bas,Euronext Amsterdam,EUR
+TIT,TIT.MI,TELECOM ITALIA,La communication,0.09381,Italie,Borsa Italiana,EUR
+INF,INF.L,INFORMA PLC,La communication,0.09308,Royaume-Uni,London Stock Exchange,GBP
+FGR,FGR.PA,EIFFAGE SA,Industries,0.09154,France,Nyse Euronext - Euronext Paris,EUR
+IAG,IAG.L,INTERNATIONAL AIRLINES GROUP SA,Industries,0.09136,Espagne,London Stock Exchange,GBP
+STMN,STMN.SW,STRAUMANN HOLDING AG,Santé,0.09065,Suisse,SIX Swiss Exchange,CHF
+KRX,KRX.IR,KINGSPAN GROUP PLC,Industries,0.09043,Irlande,Irish Stock Exchange - All Market,EUR
+NESTE,NESTE.HE,NESTE,Energie,0.09024,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+BG,BG.VI,BAWAG GROUP AG,Finance,0.08947,Autriche,Wiener Boerse Ag,EUR
+KRZ,KRZ.IR,KERRY GROUP PLC,Biens de consommation de base,0.08894,Irlande,Irish Stock Exchange - All Market,EUR
+SPSN,SPSN.SW,SWISS PRIME SITE AG,Immobilier,0.08847,Suisse,SIX Swiss Exchange,CHF
+ELE,ELE.MC,ENDESA SA,Services publics,0.08767,Espagne,Bolsa De Madrid,EUR
+PST,PST.MI,POSTE ITALIANE,Finance,0.08713,Italie,Borsa Italiana,EUR
+SCHP,SCHP.SW,SCHINDLER HOLDING PAR AG,Industries,0.08664,Suisse,SIX Swiss Exchange,CHF
+AKZA,AKZA.AS,AKZO NOBEL NV,Matériaux,0.08509,Pays-Bas,Euronext Amsterdam,EUR
+SN.,SN..L,SMITH AND NEPHEW PLC,Santé,0.0848,Royaume-Uni,London Stock Exchange,GBP
+AGS,AGS.BR,AGEAS SA,Finance,0.08462,Belgique,Nyse Euronext - Euronext Brussels,EUR
+KGH,KGH.WA,KGHM POLSKA MIEDZ SA,Matériaux,0.08412,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+CARL B,CARL-B.CO,CARLSBERG AS CL B,Biens de consommation de base,0.08316,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+ENX,ENX.PA,EURONEXT NV,Finance,0.08314,France,Nyse Euronext - Euronext Paris,EUR
+URW,URW.PA,UNIBAIL RODAMCO WE STAPLED UNITS,Immobilier,0.08299,France,Nyse Euronext - Euronext Paris,EUR
+SOON,SOON.SW,SONOVA HOLDING AG,Santé,0.08278,Suisse,SIX Swiss Exchange,CHF
+TELIA,TELIA.ST,TELIA COMPANY,La communication,0.0822,Suède,Nasdaq Omx Nordic,SEK
+SY1,SY1.DE,SYMRISE AG,Matériaux,0.08212,Allemagne,Xetra,EUR
+DPLM,DPLM.L,DIPLOMA PLC,Industries,0.08124,Royaume-Uni,London Stock Exchange,GBP
+UU.,UU..L,UNITED UTILITIES GROUP PLC,Services publics,0.08074,Royaume-Uni,London Stock Exchange,GBP
+METSO,METSO.HE,METSO CORPORATION,Industries,0.08056,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+CNA,CNA.L,CENTRICA PLC,Services publics,0.08039,Royaume-Uni,London Stock Exchange,GBP
+KNIN,KNIN.SW,KUEHNE UND NAGEL INTERNATIONAL AG,Industries,0.08008,Suisse,SIX Swiss Exchange,CHF
+CCH,CCH.L,COCA COLA HBC AG,Biens de consommation de base,0.08007,Royaume-Uni,London Stock Exchange,GBP
+ORSTED,ORSTED.CO,ORSTED A/S,Services publics,0.07947,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+SGRO,SGRO.L,SEGRO REIT PLC,Immobilier,0.07904,Royaume-Uni,London Stock Exchange,GBP
+HEN3,HEN3.DE,HENKEL & KGAA PREF AG,Biens de consommation de base,0.07903,Allemagne,Xetra,EUR
+CA,CA.PA,CARREFOUR SA,Biens de consommation de base,0.07901,France,Nyse Euronext - Euronext Paris,EUR
+LISP,LISP.SW,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Biens de consommation de base,0.07678,Suisse,SIX Swiss Exchange,CHF
+ITRK,ITRK.L,INTERTEK GROUP PLC,Industries,0.07577,Royaume-Uni,London Stock Exchange,GBP
+PEO,PEO.WA,BANK PEKAO SA,Finance,0.07492,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+ADM,ADM.L,ADMIRAL GROUP PLC,Finance,0.07486,Royaume-Uni,London Stock Exchange,GBP
+SOBI,SOBI.ST,SWEDISH ORPHAN BIOVITRUM,Santé,0.07461,Suède,Nasdaq Omx Nordic,SEK
+AKRBP,AKRBP.OL,AKER BP,Energie,0.0737,Norvège,Oslo Bors Asa,NOK
+AC,AC.PA,ACCOR SA,Biens de consommation cycliques,0.07319,France,Nyse Euronext - Euronext Paris,EUR
+SMIN,SMIN.L,SMITHS GROUP PLC,Industries,0.07176,Royaume-Uni,London Stock Exchange,GBP
+ASRNL,ASRNL.AS,ASR NEDERLAND NV,Finance,0.07161,Pays-Bas,Euronext Amsterdam,EUR
+TEL,TEL.OL,TELENOR,La communication,0.07127,Norvège,Oslo Bors Asa,NOK
+SGE,SGE.L,THE SAGE GROUP PLC,Technologie de l'information,0.06995,Royaume-Uni,London Stock Exchange,GBP
+FORTUM,FORTUM.HE,FORTUM,Services publics,0.06955,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+AGN,AGN.AS,AEGON LTD,Finance,0.06925,Pays-Bas,Euronext Amsterdam,EUR
+BKT,BKT.MC,BANKINTER SA,Finance,0.06885,Espagne,Bolsa De Madrid,EUR
+BEZ,BEZ.L,BEAZLEY PLC,Finance,0.06776,Royaume-Uni,London Stock Exchange,GBP
+BCP,BCP.LS,BANCO COMERCIAL PORTUGUES SA,Finance,0.06773,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+SVT,SVT.L,SEVERN TRENT PLC,Services publics,0.0676,Royaume-Uni,London Stock Exchange,GBP
+TEL2 B,TEL2-B.ST,TELE2 B,La communication,0.06737,Suède,Nasdaq Omx Nordic,SEK
+BNZL,BNZL.L,BUNZL,Industries,0.06721,Royaume-Uni,London Stock Exchange,GBP
+WISE,WISE.L,WISE PLC CLASS A,Finance,0.06672,Royaume-Uni,London Stock Exchange,GBP
+BVI,BVI.PA,BUREAU VERITAS SA,Industries,0.0662,France,Nyse Euronext - Euronext Paris,EUR
+HOT,HOT.DE,HOCHTIEF AG,Industries,0.06589,Allemagne,Xetra,EUR
+PZU,PZU.WA,PZU SA,Finance,0.0654,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+BEAN,BEAN.SW,BELIMO N AG,Industries,0.06434,Suisse,SIX Swiss Exchange,CHF
+UNI,UNI.MI,UNIPOL ASSICURAZIONI SPA,Finance,0.06424,Italie,Borsa Italiana,EUR
+EVO,EVO.ST,EVOLUTION,Biens de consommation cycliques,0.06406,Suède,Nasdaq Omx Nordic,SEK
+DHER,DHER.DE,DELIVERY HERO,Biens de consommation cycliques,0.06383,Allemagne,Xetra,EUR
+ACLN,ACLN.SW,ACCELLERON N AG,Industries,0.06368,Suisse,SIX Swiss Exchange,CHF
+OMV,OMV.VI,OMV AG,Energie,0.06368,Autriche,Wiener Boerse Ag,EUR
+MKS,MKS.L,MARKS AND SPENCER GROUP PLC,Biens de consommation de base,0.06333,Royaume-Uni,London Stock Exchange,GBP
+SPIE,SPIE.PA,SPIE SA,Industries,0.06321,France,Nyse Euronext - Euronext Paris,EUR
+IMI,IMI.L,IMI PLC,Industries,0.06285,Royaume-Uni,London Stock Exchange,GBP
+INDU C,INDU-C.ST,INDUSTRIVARDEN SERIES,Finance,0.06268,Suède,Nasdaq Omx Nordic,SEK
+RXL,RXL.PA,REXEL SA,Industries,0.0626,France,Nyse Euronext - Euronext Paris,EUR
+MNG,MNG.L,M&G PLC,Finance,0.06256,Royaume-Uni,London Stock Exchange,GBP
+PSON,PSON.L,PEARSON PLC,Biens de consommation cycliques,0.0625,Royaume-Uni,London Stock Exchange,GBP
+MOWI,MOWI.OL,MOWI,Biens de consommation de base,0.06242,Norvège,Oslo Bors Asa,NOK
+TEN,TEN.MI,TENARIS SA,Energie,0.06192,Italie,Borsa Italiana,EUR
+G1A,G1A.DE,GEA GROUP AG,Industries,0.06187,Allemagne,Xetra,EUR
+NTGY,NTGY.MC,NATURGY ENERGY GROUP SA,Services publics,0.06173,Espagne,Bolsa De Madrid,EUR
+CON,CON.DE,CONTINENTAL AG,Biens de consommation cycliques,0.06138,Allemagne,Xetra,EUR
+COLO B,COLO-B.CO,COLOPLAST B,Santé,0.06112,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+ORNBV,ORNBV.HE,ORION CLASS B,Santé,0.06093,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+GALP,GALP.LS,GALP ENERGIA SGPS SA CLASS B,Energie,0.06082,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+IGG,IGG.L,IG GROUP HOLDINGS PLC,Finance,0.06075,Royaume-Uni,London Stock Exchange,GBP
+SKA B,SKA-B.ST,SKANSKA B,Industries,0.06059,Suède,Nasdaq Omx Nordic,SEK
+LI,LI.PA,KLEPIERRE REIT SA,Immobilier,0.06003,France,Nyse Euronext - Euronext Paris,EUR
+NKT,NKT.CO,NKT,Industries,0.05975,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+TREL B,TREL-B.ST,TRELLEBORG B,Industries,0.05942,Suède,Nasdaq Omx Nordic,SEK
+ADDT B,ADDT-B.ST,ADDTECH CLASS B,Industries,0.05937,Suède,Nasdaq Omx Nordic,SEK
+SKF B,SKF-B.ST,SKF B,Industries,0.05851,Suède,Nasdaq Omx Nordic,SEK
+YAR,YAR.OL,YARA INTERNATIONAL,Matériaux,0.05838,Norvège,Oslo Bors Asa,NOK
+ABVX,ABVX.PA,ABIVAX SA,Santé,0.05822,France,Nyse Euronext - Euronext Paris,EUR
+WEIR,WEIR.L,WEIR GROUP PLC,Industries,0.05789,Royaume-Uni,London Stock Exchange,GBP
+GAW,GAW.L,GAMES WORKSHOP GROUP PLC,Biens de consommation cycliques,0.05686,Royaume-Uni,London Stock Exchange,GBP
+SDLF,SDLF.L,STANDARD LIFE PLC,Finance,0.05678,Royaume-Uni,London Stock Exchange,GBP
+GTT,GTT.PA,GAZTRANSPORT & TECHNIGAZ SA,Energie,0.05629,France,Nyse Euronext - Euronext Paris,EUR
+FME,FME.DE,FRESENIUS MEDICAL CARE AG,Santé,0.05513,Allemagne,Xetra,EUR
+KBX,KBX.DE,KNORR BREMSE AG,Industries,0.0551,Allemagne,Xetra,EUR
+HM B,HM-B.ST,HENNES & MAURITZ,Biens de consommation cycliques,0.05488,Suède,Nasdaq Omx Nordic,SEK
+PSPN,PSPN.SW,PSP SWISS PROPERTY AG,Immobilier,0.05487,Suisse,SIX Swiss Exchange,CHF
+ALE,ALE.WA,ALLEGRO SA,Biens de consommation cycliques,0.05485,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+HEIO,HEIO.AS,HEINEKEN HOLDING NV,Biens de consommation de base,0.05482,Pays-Bas,Euronext Amsterdam,EUR
+MICC,MICC.AS,MAGNUM ICE CREAM NV,Biens de consommation de base,0.05477,Pays-Bas,Euronext Amsterdam,EUR
+ERF,ERF.PA,EUROFINS SCIENTIFIC,Santé,0.05452,France,Nyse Euronext - Euronext Paris,EUR
+ORK,ORK.OL,ORKLA,Biens de consommation de base,0.05449,Norvège,Oslo Bors Asa,NOK
+MAERSK B,MAERSK-B.CO,A P MOLLER MAERSK B,Industries,0.05427,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+STJ,STJ.L,ST JAMESS PLACE PLC,Finance,0.05403,Royaume-Uni,London Stock Exchange,GBP
+HSX,HSX.L,HISCOX LTD,Finance,0.05391,Royaume-Uni,London Stock Exchange,GBP
+UHR,UHR.SW,THE SWATCH GROUP AG,Biens de consommation cycliques,0.05362,Suisse,SIX Swiss Exchange,CHF
+SECU B,SECU-B.ST,SECURITAS B,Industries,0.05324,Suède,Nasdaq Omx Nordic,SEK
+SUBC,SUBC.OL,SUBSEA SA,Energie,0.0525,Norvège,Oslo Bors Asa,NOK
+SDR,SDR.L,SCHRODERS PLC,Finance,0.05239,Royaume-Uni,London Stock Exchange,GBP
+TPRO,TPRO.MI,TECHNOPROBE SPA,Technologie de l'information,0.05217,Italie,Borsa Italiana,EUR
+BNR,BNR.DE,BRENNTAG,Industries,0.05205,Allemagne,Xetra,EUR
+STB,STB.OL,STOREBRAND,Finance,0.05192,Norvège,Oslo Bors Asa,NOK
+MRO,MRO.L,MELROSE INDUSTRIES PLC,Industries,0.05087,Royaume-Uni,London Stock Exchange,GBP
+GBLB,GBLB.BR,GROUPE BRUXELLES LAMBERT NV,Finance,0.05084,Belgique,Nyse Euronext - Euronext Brussels,EUR
+AIXA,AIXA.DE,AIXTRON,Technologie de l'information,0.05055,Allemagne,Xetra,EUR
+DCC,DCC.L,DCC PLC,Energie,0.05052,Royaume-Uni,London Stock Exchange,GBP
+AED,AED.BR,AEDIFICA NV,Immobilier,0.05031,Belgique,Nyse Euronext - Euronext Brussels,EUR
+FRES,FRES.L,FRESNILLO PLC,Matériaux,0.04996,Royaume-Uni,London Stock Exchange,GBP
+ELI,ELI.BR,ELIA GROUP SA,Services publics,0.04978,Belgique,Nyse Euronext - Euronext Brussels,EUR
+LPP,LPP.WA,LPP SA,Biens de consommation cycliques,0.04975,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+QIA,QIA.DE,QIAGEN NV,Santé,0.04957,Allemagne,Deutsche Boerse Xetra,EUR
+NEX,NEX.PA,NEXANS SA,Industries,0.04946,France,Nyse Euronext - Euronext Paris,EUR
+BAB,BAB.L,BABCOCK INTERNATIONAL GROUP PLC,Industries,0.04932,Royaume-Uni,London Stock Exchange,GBP
+PNDORA,PNDORA.CO,PANDORA,Biens de consommation cycliques,0.04905,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+BEI,BEI.DE,BEIERSDORF AG,Biens de consommation de base,0.049,Allemagne,Xetra,EUR
+RBI,RBI.VI,RAIFFEISEN BANK INTERNATIONAL AG,Finance,0.04877,Autriche,Wiener Boerse Ag,EUR
+ELISA,ELISA.HE,ELISA,La communication,0.04864,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+IG,IG.MI,ITALGAS,Services publics,0.04861,Italie,Borsa Italiana,EUR
+LTMC,LTMC.MI,LOTTOMATICA GROUP,Biens de consommation cycliques,0.04831,Italie,Borsa Italiana,EUR
+TLX,TLX.DE,TALANX AG,Finance,0.04825,Allemagne,Xetra,EUR
+TRYG,TRYG.CO,TRYG,Finance,0.04796,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+KCR,KCR.HE,KONECRANES,Industries,0.04763,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+TKA,TKA.DE,THYSSENKRUPP AG,Matériaux,0.04753,Allemagne,Xetra,EUR
+ICG,ICG.L,ICG PLC,Finance,0.04717,Royaume-Uni,London Stock Exchange,GBP
+ABF,ABF.L,ASSOCIATED BRITISH FOODS PLC,Biens de consommation de base,0.04691,Royaume-Uni,London Stock Exchange,GBP
+EXO,EXO.AS,EXOR NV,Finance,0.04664,Pays-Bas,Euronext Amsterdam,EUR
+SBRY,SBRY.L,SAINSBURY(J) PLC,Biens de consommation de base,0.0465,Royaume-Uni,London Stock Exchange,GBP
+SPX,SPX.L,SPIRAX GROUP PLC,Industries,0.04648,Royaume-Uni,London Stock Exchange,GBP
+EBP,EBP.WA,ERSTE BANK POLSKA SA,Finance,0.04644,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+ALO,ALO.PA,ALSTOM SA,Industries,0.04634,France,Nyse Euronext - Euronext Paris,EUR
+ANA,ANA.MC,ACCIONA SA,Services publics,0.04601,Espagne,Bolsa De Madrid,EUR
+RNO,RNO.PA,RENAULT SA,Biens de consommation cycliques,0.04597,France,Nyse Euronext - Euronext Paris,EUR
+KGF,KGF.L,KINGFISHER PLC,Biens de consommation cycliques,0.04552,Royaume-Uni,London Stock Exchange,GBP
+STERV,STERV.HE,STORA ENSO CLASS R,Matériaux,0.04507,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+LIFCO B,LIFCO-B.ST,LIFCO CLASS B,Industries,0.04505,Suède,Nasdaq Omx Nordic,SEK
+SRT3,SRT3.DE,SARTORIUS PREF AG,Santé,0.04425,Allemagne,Xetra,EUR
+KESKOB,KESKOB.HE,KESKO CLASS B,Biens de consommation de base,0.04386,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+NDA,NDA.DE,AURUBIS AG,Matériaux,0.04374,Allemagne,Xetra,EUR
+IPN,IPN.PA,IPSEN SA,Santé,0.04371,France,Nyse Euronext - Euronext Paris,EUR
+AM,AM.PA,DASSAULT AVIATION SA,Industries,0.04347,France,Nyse Euronext - Euronext Paris,EUR
+SCA B,SCA-B.ST,SVENSKA CELLULOSA B,Matériaux,0.0434,Suède,Nasdaq Omx Nordic,SEK
+EDEN,EDEN.PA,EDENRED,Finance,0.04316,France,Nyse Euronext - Euronext Paris,EUR
+ISS,ISS.CO,ISS A S,Industries,0.043,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+MRL,MRL.MC,MERLIN PROPERTIES REIT SA,Immobilier,0.04254,Espagne,Bolsa De Madrid,EUR
+SPM,SPM.MI,SAIPEM,Energie,0.04253,Italie,Borsa Italiana,EUR
+REC,REC.MI,RECORDATI INDUSTRIA CHIMICA E FARM,Santé,0.04245,Italie,Borsa Italiana,EUR
+AVOL,AVOL.SW,AVOLTA AG,Biens de consommation cycliques,0.04214,Suisse,SIX Swiss Exchange,CHF
+GET,GET.PA,GETLINK,Industries,0.04181,France,Nyse Euronext - Euronext Paris,EUR
+SSAB B,SSAB-B.ST,SSAB CLASS B,Matériaux,0.0416,Suède,Nasdaq Omx Nordic,SEK
+LAND,LAND.L,LAND SECURITIES GROUP REIT PLC,Immobilier,0.04152,Royaume-Uni,London Stock Exchange,GBP
+ACKB,ACKB.BR,ACKERMANS & VAN HAAREN NV,Industries,0.04112,Belgique,Nyse Euronext - Euronext Brussels,EUR
+ZAL,ZAL.DE,ZALANDO,Biens de consommation cycliques,0.04105,Allemagne,Xetra,EUR
+SQN,SQN.SW,SWISSQUOTE GROUP HOLDING SA,Finance,0.04103,Suisse,SIX Swiss Exchange,CHF
+PAH3,PAH3.DE,PORSCHE AUTOMOBIL HOLDING PREF,Biens de consommation cycliques,0.04077,Allemagne,Xetra,EUR
+VOE,VOE.VI,VOESTALPINE AG,Matériaux,0.04057,Autriche,Wiener Boerse Ag,EUR
+G24,G24.DE,SCOUT24 N,La communication,0.04042,Allemagne,Xetra,EUR
+UMI,UMI.BR,UMICORE SA,Matériaux,0.04031,Belgique,Nyse Euronext - Euronext Brussels,EUR
+RILBA,RILBA.CO,RINGKJOBING LANDBOBANK,Finance,0.04005,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+BBY,BBY.L,BALFOUR BEATTY PLC,Industries,0.03974,Royaume-Uni,London Stock Exchange,GBP
+HAG,HAG.DE,HENSOLDT AG,Industries,0.03957,Allemagne,Xetra,EUR
+EMSN,EMSN.SW,EMS-CHEMIE HOLDING AG,Matériaux,0.0393,Suisse,SIX Swiss Exchange,CHF
+JMT,JMT.LS,JERONIMO MARTINS SA,Biens de consommation de base,0.03901,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+AMUN,AMUN.PA,AMUNDI SA,Finance,0.039,France,Nyse Euronext - Euronext Paris,EUR
+IMCD,IMCD.AS,IMCD NV,Industries,0.03892,Pays-Bas,Euronext Amsterdam,EUR
+SAVE,SAVE.ST,NORDNET,Finance,0.03891,Suède,Nasdaq Omx Nordic,SEK
+LHA,LHA.DE,DEUTSCHE LUFTHANSA AG,Industries,0.03883,Allemagne,Xetra,EUR
+NDX1,NDX1.DE,NORDEX,Industries,0.0384,Allemagne,Xetra,EUR
+P911,P911.DE,DR ING HC F PORSCHE PRF AG,Biens de consommation cycliques,0.03839,Allemagne,Xetra,EUR
+JYSK,JYSK.CO,JYSKE BANK,Finance,0.03836,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+ALSYDB,ALSYDB.CO,AL SYDBANK,Finance,0.03824,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+FHZN,FHZN.SW,FLUGHAFEN ZUERICH AG,Industries,0.03786,Suisse,SIX Swiss Exchange,CHF
+ABDN,ABDN.L,ABERDEEN GROUP PLC,Finance,0.03772,Royaume-Uni,London Stock Exchange,GBP
+CAST,CAST.ST,CASTELLUM,Immobilier,0.03756,Suède,Nasdaq Omx Nordic,SEK
+DIM,DIM.PA,SARTORIUS STEDIM BIOTECH SA,Santé,0.03729,France,Nyse Euronext - Euronext Paris,EUR
+ANDR,ANDR.VI,ANDRITZ AG,Industries,0.03721,Autriche,Wiener Boerse Ag,EUR
+BRBY,BRBY.L,BURBERRY GROUP PLC,Biens de consommation cycliques,0.03718,Royaume-Uni,London Stock Exchange,GBP
+HUBN,HUBN.SW,HUBER & SUHNER AG,Industries,0.03681,Suisse,SIX Swiss Exchange,CHF
+SYENS,SYENS.BR,SYENSQO NV,Matériaux,0.03679,Belgique,Nyse Euronext - Euronext Brussels,EUR
+BEIJ B,BEIJ-B.ST,BEIJER REF CLASS B,Industries,0.03628,Suède,Nasdaq Omx Nordic,SEK
+NIBE B,NIBE-B.ST,NIBE INDUSTRIER CLASS B,Industries,0.03625,Suède,Nasdaq Omx Nordic,SEK
+SCR,SCR.PA,SCOR,Finance,0.03612,France,Nyse Euronext - Euronext Paris,EUR
+IDR,IDR.MC,INDRA SISTEMAS SA,Technologie de l'information,0.0361,Espagne,Bolsa De Madrid,EUR
+BLND,BLND.L,BRITISH LAND REIT PLC,Immobilier,0.03587,Royaume-Uni,London Stock Exchange,GBP
+HWDN,HWDN.L,HOWDEN JOINERY GROUP PLC,Industries,0.03583,Royaume-Uni,London Stock Exchange,GBP
+FRO,FRO.OL,FRONTLINE PLC,Energie,0.03543,Norvège,Oslo Bors Asa,NOK
+GJF,GJF.OL,GJENSIDIGE FORSIKRING,Finance,0.0354,Norvège,Oslo Bors Asa,NOK
+WTB,WTB.L,WHITBREAD PLC,Biens de consommation cycliques,0.0353,Royaume-Uni,London Stock Exchange,GBP
+LEG,LEG.DE,LEG IMMOBILIEN N,Immobilier,0.03514,Allemagne,Xetra,EUR
+GALE,GALE.SW,GALENICA AG,Santé,0.03511,Suisse,SIX Swiss Exchange,CHF
+LOTB,LOTB.BR,LOTUS BAKERIES NV,Biens de consommation de base,0.03507,Belgique,Nyse Euronext - Euronext Brussels,EUR
+R3NK,R3NK.DE,RENK GROUP AG,Industries,0.03507,Allemagne,Xetra,EUR
+BARN,BARN.SW,BARRY CALLEBAUT AG,Biens de consommation de base,0.03491,Suisse,SIX Swiss Exchange,CHF
+INDT,INDT.ST,INDUTRADE,Industries,0.03481,Suède,Nasdaq Omx Nordic,SEK
+ELIS,ELIS.PA,ELIS SA,Industries,0.03465,France,Nyse Euronext - Euronext Paris,EUR
+ALK B,ALK-B.CO,ALK-ABELLO CLASS B,Santé,0.03449,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+TE,TE.PA,TECHNIP ENERGIES NV,Energie,0.03441,France,Nyse Euronext - Euronext Paris,EUR
+INPST,INPST.AS,INPOST SA,Industries,0.03436,Pays-Bas,Euronext Amsterdam,EUR
+CTEC,CTEC.L,CONVATEC GROUP PLC,Santé,0.03376,Royaume-Uni,London Stock Exchange,GBP
+CRDA,CRDA.L,CRODA INTERNATIONAL PLC,Matériaux,0.03335,Royaume-Uni,London Stock Exchange,GBP
+BGEO,BGEO.L,LION FINANCE GROUP PLC,Finance,0.03332,Royaume-Uni,London Stock Exchange,GBP
+EDPR,EDPR.LS,EDP RENEWABLES SA,Services publics,0.03306,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+SIGN,SIGN.SW,SIG GROUP N AG,Matériaux,0.03303,Suisse,SIX Swiss Exchange,CHF
+VK,VK.PA,VALLOUREC SA,Energie,0.03289,France,Nyse Euronext - Euronext Paris,EUR
+LAGR B,LAGR-B.ST,LAGERCRANTZ GROUP CLASS B,Technologie de l'information,0.03283,Suède,Nasdaq Omx Nordic,SEK
+SBMO,SBMO.AS,SBM OFFSHORE NV,Energie,0.03274,Pays-Bas,Euronext Amsterdam,EUR
+TUB,TUB.BR,FINANCIERE DE TUBIZE SA,Santé,0.03273,Belgique,Nyse Euronext - Euronext Brussels,EUR
+RED,RED.MC,REDEIA CORPORACION SA,Services publics,0.03266,Espagne,Bolsa De Madrid,EUR
+AKE,AKE.PA,ARKEMA SA,Matériaux,0.03248,France,Nyse Euronext - Euronext Paris,EUR
+BTRW,BTRW.L,BARRATT REDROW PLC,Biens de consommation cycliques,0.03244,Royaume-Uni,London Stock Exchange,GBP
+WDP,WDP.BR,WAREHOUSES DE PAUW NV,Immobilier,0.03191,Belgique,Nyse Euronext - Euronext Brussels,EUR
+AAK,AAK.ST,AAK,Biens de consommation de base,0.03187,Suède,Nasdaq Omx Nordic,SEK
+AUTO,AUTO.L,AUTOTRADER GROUP PLC,La communication,0.03185,Royaume-Uni,London Stock Exchange,GBP
+BMED,BMED.MI,BANCA MEDIOLANUM,Finance,0.03168,Italie,Borsa Italiana,EUR
+LMP,LMP.L,LONDONMETRIC PROPERTY REIT PLC,Immobilier,0.03157,Royaume-Uni,London Stock Exchange,GBP
+SB1NO,SB1NO.OL,SPAREBANK SR-NORGE,Finance,0.03157,Norvège,Oslo Bors Asa,NOK
+JMAT,JMAT.L,JOHNSON MATTHEY PLC,Matériaux,0.03137,Royaume-Uni,London Stock Exchange,GBP
+DIE,DIE.BR,DIETEREN (D) SA,Biens de consommation cycliques,0.03117,Belgique,Nyse Euronext - Euronext Brussels,EUR
+AYV,AYV.PA,AYVENS SA,Industries,0.03109,France,Nyse Euronext - Euronext Paris,EUR
+PSN,PSN.L,PERSIMMON PLC,Biens de consommation cycliques,0.03081,Royaume-Uni,London Stock Exchange,GBP
+AZA,AZA.ST,AVANZA BANK HOLDING,Finance,0.0307,Suède,Nasdaq Omx Nordic,SEK
+EVK,EVK.DE,EVONIK INDUSTRIES AG,Matériaux,0.0307,Allemagne,Xetra,EUR
+INVP,INVP.L,INVESTEC PLC,Finance,0.03058,Royaume-Uni,London Stock Exchange,GBP
+MYCR,MYCR.ST,MYCRONIC,Technologie de l'information,0.03057,Suède,Nasdaq Omx Nordic,SEK
+MBK,MBK.WA,MBANK SA,Finance,0.03048,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+GFC,GFC.PA,GECINA SA,Immobilier,0.03015,France,Nyse Euronext - Euronext Paris,EUR
+SALM,SALM.OL,SALMAR,Biens de consommation de base,0.03001,Norvège,Oslo Bors Asa,NOK
+TEP,TEP.PA,TELEPERFORMANCE,Industries,0.03,France,Nyse Euronext - Euronext Paris,EUR
+ZEG,ZEG.L,ZEGONA COMMUNICATIONS PLC,La communication,0.02987,Royaume-Uni,London Stock Exchange,GBP
+BKG,BKG.L,BERKELEY GROUP HOLDINGS (THE) PLC,Biens de consommation cycliques,0.02984,Royaume-Uni,London Stock Exchange,GBP
+LUND B,LUND-B.ST,LUNDBERGFORETAGEN CLASS B,Finance,0.02981,Suède,Nasdaq Omx Nordic,SEK
+ENG,ENG.MC,ENAGAS SA,Services publics,0.02959,Espagne,Bolsa De Madrid,EUR
+BCVN,BCVN.SW,BC VAUD N,Finance,0.02958,Suisse,SIX Swiss Exchange,CHF
+BOL,BOL.PA,BOLLORE,Energie,0.0294,France,Nyse Euronext - Euronext Paris,EUR
+SW,SW.PA,SODEXO SA,Biens de consommation cycliques,0.02935,France,Nyse Euronext - Euronext Paris,EUR
+BZU,BZU.MI,BUZZI,Matériaux,0.02928,Italie,Borsa Italiana,EUR
+INCH,INCH.L,INCHCAPE PLC,Biens de consommation cycliques,0.02906,Royaume-Uni,London Stock Exchange,GBP
+NEM,NEM.DE,NEMETSCHEK,Technologie de l'information,0.029,Allemagne,Xetra,EUR
+VER,VER.VI,VERBUND AG,Services publics,0.02891,Autriche,Wiener Boerse Ag,EUR
+ALLN,ALLN.SW,ALLREAL HOLDING AG,Immobilier,0.02885,Suisse,SIX Swiss Exchange,CHF
+EMG,EMG.L,MAN GROUP PLC,Finance,0.02882,Royaume-Uni,London Stock Exchange,GBP
+VAR,VAR.OL,VAR ENERGI,Energie,0.0287,Norvège,Oslo Bors Asa,NOK
+GL9,GL9.IR,GLANBIA PLC,Biens de consommation de base,0.02857,Irlande,Irish Stock Exchange - All Market,EUR
+TEMN,TEMN.SW,TEMENOS AG,Technologie de l'information,0.02849,Suisse,SIX Swiss Exchange,CHF
+SECT B,SECT-B.ST,SECTRA CLASS B,Santé,0.02848,Suède,Nasdaq Omx Nordic,SEK
+GETI B,GETI-B.ST,GETINGE B,Santé,0.02844,Suède,Nasdaq Omx Nordic,SEK
+SOF,SOF.BR,SOFINA SA,Finance,0.02842,Belgique,Nyse Euronext - Euronext Brussels,EUR
+VEND,VEND.OL,VEND MARKETPLACES ASA,La communication,0.02838,Norvège,Oslo Bors Asa,NOK
+AALB,AALB.AS,AALBERTS NV,Industries,0.02826,Pays-Bas,Euronext Amsterdam,EUR
+BBOX,BBOX.L,TRITAX BIG BOX REIT PLC,Immobilier,0.02807,Royaume-Uni,London Stock Exchange,GBP
+PLUS,PLUS.L,PLUS500 LTD,Finance,0.02803,Royaume-Uni,London Stock Exchange,GBP
+AG1,AG1.DE,AUTO1 GROUP,Biens de consommation cycliques,0.02801,Allemagne,Xetra,EUR
+A2A,A2A.MI,A2A,Services publics,0.02798,Italie,Borsa Italiana,EUR
+RMV,RMV.L,RIGHTMOVE PLC,La communication,0.02792,Royaume-Uni,London Stock Exchange,GBP
+ENT,ENT.L,ENTAIN PLC,Biens de consommation cycliques,0.02784,Royaume-Uni,London Stock Exchange,GBP
+AZM,AZM.MI,AZIMUT HOLDING,Finance,0.02766,Italie,Borsa Italiana,EUR
+MAP,MAP.MC,MAPFRE SA,Finance,0.02735,Espagne,Bolsa De Madrid,EUR
+VSURE,VSURE.ST,VERISURE PLC,Industries,0.02705,Suède,Nasdaq Omx Nordic,EUR
+ITV,ITV.L,ITV PLC,La communication,0.02684,Royaume-Uni,London Stock Exchange,GBP
+SRP,SRP.L,SERCO GROUP PLC,Industries,0.02672,Royaume-Uni,London Stock Exchange,GBP
+CVC,CVC.AS,CVC CAPITAL PARTNERS PLC,Finance,0.02664,Pays-Bas,Euronext Amsterdam,EUR
+CDR,CDR.WA,CD PROJEKT SA,La communication,0.02657,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+BIM,BIM.PA,BIOMERIEUX SA,Santé,0.02652,France,Nyse Euronext - Euronext Paris,EUR
+RAA,RAA.DE,RATIONAL AG,Industries,0.0263,Allemagne,Xetra,EUR
+GF,GF.SW,GEORG FISCHER AG,Industries,0.0263,Suisse,SIX Swiss Exchange,CHF
+SFZN,SFZN.SW,SIEGFRIED HOLDING AG,Santé,0.02617,Suisse,SIX Swiss Exchange,CHF
+DNP,DNP.WA,DINO POLSKA SA,Biens de consommation de base,0.02614,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+VALMT,VALMT.HE,VALMET CORP,Industries,0.0261,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+DRX,DRX.L,DRAX GROUP PLC,Services publics,0.02592,Royaume-Uni,London Stock Exchange,GBP
+FTK,FTK.DE,FLATEXDEGIRO N,Finance,0.02575,Allemagne,Xetra,EUR
+SAGA B,SAGA-B.ST,SAGAX CLASS B,Immobilier,0.02562,Suède,Nasdaq Omx Nordic,SEK
+FLS,FLS.CO,FLSMIDTH AND CO CLASS B,Industries,0.02542,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+RS1,RS1.L,RS GROUP PLC,Industries,0.02534,Royaume-Uni,London Stock Exchange,GBP
+ZAB,ZAB.WA,ZABKA GROUP SOCIETE ANONYME SA,Biens de consommation de base,0.02525,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+WPP,WPP.L,WPP PLC,La communication,0.02511,Royaume-Uni,London Stock Exchange,GBP
+EVD,EVD.DE,CTS EVENTIM AG,La communication,0.02498,Allemagne,Xetra,EUR
+BALD B,BALD-B.ST,FASTIGHETS BALDER CLASS B,Immobilier,0.02497,Suède,Nasdaq Omx Nordic,SEK
+CPR,CPR.MI,DAVIDE CAMPARI MILANO NV,Biens de consommation de base,0.02485,Italie,Borsa Italiana,EUR
+BKW,BKW.SW,BKW N AG,Services publics,0.02481,Suisse,SIX Swiss Exchange,CHF
+KGX,KGX.DE,KION GROUP AG,Industries,0.02476,Allemagne,Xetra,EUR
+HER,HER.MI,HERA,Services publics,0.02474,Italie,Borsa Italiana,EUR
+TW.,TW..L,TAYLOR WIMPEY PLC,Biens de consommation cycliques,0.02473,Royaume-Uni,London Stock Exchange,GBP
+MNDI,MNDI.L,MONDI PLC,Matériaux,0.02472,Royaume-Uni,London Stock Exchange,GBP
+UNI,UNI.MC,UNICAJA BANCO SA,Finance,0.02467,Espagne,Bolsa De Madrid,EUR
+NOD,NOD.OL,NORDIC SEMICONDUCTOR,Technologie de l'information,0.02447,Norvège,Oslo Bors Asa,NOK
+FNTN,FNTN.DE,FREENET AG,La communication,0.0243,Allemagne,Xetra,EUR
+CWK,CWK.L,CRANSWICK PLC,Biens de consommation de base,0.0243,Royaume-Uni,London Stock Exchange,GBP
+RUI,RUI.PA,RUBIS,Services publics,0.02351,France,Nyse Euronext - Euronext Paris,EUR
+PUM,PUM.DE,PUMA,Biens de consommation cycliques,0.02335,Allemagne,Xetra,EUR
+IP,IP.MI,INTERPUMP GROUP,Industries,0.02334,Italie,Borsa Italiana,EUR
+PNN,PNN.L,PENNON GROUP PLC,Services publics,0.02333,Royaume-Uni,London Stock Exchange,GBP
+BGN,BGN.MI,BANCA GENERALI,Finance,0.02327,Italie,Borsa Italiana,EUR
+OCTV SDB,OCTV-SDB.ST,OCTAVE INTELLIGENCE PLC SDRS,Technologie de l'information,0.02327,Suède,Nasdaq Omx Nordic,SEK
+QQ.,QQ..L,QINETIQ GROUP PLC,Industries,0.02308,Royaume-Uni,London Stock Exchange,GBP
+WIE,WIE.VI,WIENERBERGER AG,Matériaux,0.02306,Autriche,Wiener Boerse Ag,EUR
+PIRC,PIRC.MI,PIRELLI & C,Biens de consommation cycliques,0.02296,Italie,Borsa Italiana,EUR
+ADP,ADP.PA,AEROPORTS DE PARIS SA,Industries,0.0229,France,Nyse Euronext - Euronext Paris,EUR
+KBCA,KBCA.BR,KBC ANCORA NV,Finance,0.02289,Belgique,Nyse Euronext - Euronext Brussels,EUR
+AXFO,AXFO.ST,AXFOOD,Biens de consommation de base,0.02277,Suède,Nasdaq Omx Nordic,SEK
+TUI1,TUI1.DE,TUI N AG,Biens de consommation cycliques,0.02272,Royaume-Uni,Xetra,EUR
+BFT,BFT.WA,BENEFIT SYSTEMS SA,Industries,0.02271,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+DEMANT,DEMANT.CO,DEMANT,Santé,0.02267,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+SUNN,SUNN.SW,SUNRISE N CLASS A LTD,La communication,0.02266,Suisse,SIX Swiss Exchange,CHF
+ADEN,ADEN.SW,ADECCO GROUP AG,Industries,0.02232,Suisse,SIX Swiss Exchange,CHF
+TEG,TEG.DE,TAG IMMOBILIEN AG,Immobilier,0.02229,Allemagne,Xetra,EUR
+LOOMIS,LOOMIS.ST,LOOMIS CLASS B,Industries,0.02222,Suède,Nasdaq Omx Nordic,SEK
+GRF,GRF.MC,GRIFOLS SA CLASS A,Santé,0.02213,Espagne,Bolsa De Madrid,EUR
+BC,BC.MI,BRUNELLO CUCINELLI,Biens de consommation cycliques,0.02213,Italie,Borsa Italiana,EUR
+COV,COV.PA,COVIVIO SA,Immobilier,0.02186,France,Nyse Euronext - Euronext Paris,EUR
+CMBN,CMBN.SW,CEMBRA MONEY BANK AG,Finance,0.02174,Suisse,SIX Swiss Exchange,CHF
+AAF,AAF.L,AIRTEL AFRICA PLC,La communication,0.02136,Royaume-Uni,London Stock Exchange,GBP
+UTG,UTG.L,UNITE GROUP PLC,Immobilier,0.02135,Royaume-Uni,London Stock Exchange,GBP
+FR,FR.PA,VALEO,Biens de consommation cycliques,0.02128,France,Nyse Euronext - Euronext Paris,EUR
+VATN,VATN.SW,VALIANT HOLDING AG,Finance,0.02116,Suisse,SIX Swiss Exchange,CHF
+TCAP,TCAP.L,TP ICAP GROUP PLC,Finance,0.02099,Royaume-Uni,London Stock Exchange,GBP
+GBF,GBF.DE,BILFINGER,Industries,0.02095,Allemagne,Xetra,EUR
+HUH1V,HUH1V.HE,HUHTAMAKI,Matériaux,0.02093,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+ACP,ACP.WA,ASSECO POLAND SA,Technologie de l'information,0.0209,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+SCYR,SCYR.MC,SACYR SA,Industries,0.02086,Espagne,Bolsa De Madrid,EUR
+ROR,ROR.L,ROTORK PLC,Industries,0.02085,Royaume-Uni,London Stock Exchange,GBP
+MOBN,MOBN.SW,MOBIMO HOLDING AG,Immobilier,0.02082,Suisse,SIX Swiss Exchange,CHF
+CSG,CSG.AS,CSG CLASS A NV,Industries,0.02073,Pays-Bas,Euronext Amsterdam,EUR
+RAND,RAND.AS,RANDSTAD HOLDING,Industries,0.02063,Pays-Bas,Euronext Amsterdam,EUR
+LIGHT,LIGHT.AS,SIGNIFY NV,Industries,0.02055,Pays-Bas,Euronext Amsterdam,EUR
+SWEC B,SWEC-B.ST,SWECO CLASS B,Industries,0.02053,Suède,Nasdaq Omx Nordic,SEK
+SUN,SUN.SW,SULZER AG,Industries,0.02037,Suisse,SIX Swiss Exchange,CHF
+FDJU,FDJU.PA,FDJ UNITED,Biens de consommation cycliques,0.02032,France,Nyse Euronext - Euronext Paris,EUR
+ZEAL,ZEAL.CO,ZEALAND PHARMA,Santé,0.02028,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+ARCAD,ARCAD.AS,ARCADIS NV,Industries,0.02011,Pays-Bas,Euronext Amsterdam,EUR
+BC8,BC8.DE,BECHTLE AG,Technologie de l'information,0.02008,Allemagne,Xetra,EUR
+IVG,IVG.MI,IVECO GROUP NV,Industries,0.01973,Italie,Borsa Italiana,EUR
+VIS,VIS.MC,VISCOFAN SA,Biens de consommation de base,0.01973,Espagne,Bolsa De Madrid,EUR
+HIK,HIK.L,HIKMA PHARMACEUTICALS PLC,Santé,0.01941,Royaume-Uni,London Stock Exchange,GBP
+TOM,TOM.OL,TOMRA SYSTEMS,Industries,0.0193,Norvège,Oslo Bors Asa,NOK
+SBNOR,SBNOR.OL,SPAREBANKEN NORGE,Finance,0.0192,Norvège,Oslo Bors Asa,NOK
+VPK,VPK.AS,KONINKLIJKE VOPAK NV,Energie,0.01915,Pays-Bas,Euronext Amsterdam,EUR
+MANTA,MANTA.HE,MANDATUM,Finance,0.01915,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+RBREW,RBREW.CO,ROYAL UNIBREW,Biens de consommation de base,0.01912,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+LATO B,LATO-B.ST,LATOUR INVESTMENT CLASS B,Industries,0.01896,Suède,Nasdaq Omx Nordic,SEK
+ALLFG,ALLFG.AS,ALLFUNDS GROUP PLC,Finance,0.01884,Pays-Bas,Euronext Amsterdam,EUR
+VZN,VZN.SW,VZ HOLDING AG,Finance,0.01868,Suisse,SIX Swiss Exchange,CHF
+PAF,PAF.L,PAN AFRICAN RESOURCES PLC,Matériaux,0.01867,Royaume-Uni,London Stock Exchange,GBP
+BWY,BWY.L,BELLWAY PLC,Biens de consommation cycliques,0.01861,Royaume-Uni,London Stock Exchange,GBP
+TPE,TPE.WA,TAURON POLSKA ENERGIA SA,Services publics,0.01855,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+HOLM B,HOLM-B.ST,HOLMEN CLASS B,Matériaux,0.01854,Suède,Nasdaq Omx Nordic,SEK
+FRA,FRA.DE,FRAPORT FRANKFURT AIRPORT SERVICES,Industries,0.01851,Allemagne,Xetra,EUR
+KMAR,KMAR.OL,KONGSBERG MARITIME,Industries,0.01851,Norvège,Oslo Bors Asa,NOK
+ING,ING.WA,ING BANK SLASKI SA,Finance,0.0185,Pologne,Warsaw Stock Exchange/Equities/Main Market,PLN
+FPE3,FPE3.DE,FUCHS PREF,Matériaux,0.01848,Allemagne,Xetra,EUR
+ROCK B,ROCK-B.CO,ROCKWOOL CLASS B,Industries,0.01836,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+QLT,QLT.L,QUILTER PLC,Finance,0.01832,Royaume-Uni,London Stock Exchange,GBP
+TBCG,TBCG.L,TBC BANK GROUP PLC,Finance,0.01827,Royaume-Uni,London Stock Exchange,GBP
+REY,REY.MI,REPLY,Technologie de l'information,0.01824,Italie,Borsa Italiana,EUR
+JD.,JD..L,JD SPORTS FASHION PLC,Biens de consommation cycliques,0.01817,Royaume-Uni,London Stock Exchange,GBP
+SDF,SDF.DE,K+S N AG,Matériaux,0.018,Allemagne,Xetra,EUR
+PHP,PHP.L,PRIMARY HEALTH PROPERTIES REIT PLC,Immobilier,0.01789,Royaume-Uni,London Stock Exchange,GBP
+SFSN,SFSN.SW,SFS GROUP AG,Industries,0.01755,Suisse,SIX Swiss Exchange,CHF
+SHC,SHC.L,SHAFTESBURY CAPITAL PLC,Immobilier,0.01753,Royaume-Uni,London Stock Exchange,GBP
+DLG,DLG.MI,DELONGHI,Biens de consommation cycliques,0.0175,Italie,Borsa Italiana,EUR
+MTO,MTO.L,MITIE GROUP PLC,Industries,0.01737,Royaume-Uni,London Stock Exchange,GBP
+NEXI,NEXI.MI,NEXI,Finance,0.01712,Italie,Borsa Italiana,EUR
+THULE,THULE.ST,THULE GROUP,Biens de consommation cycliques,0.01675,Suède,Nasdaq Omx Nordic,SEK
+DKSH,DKSH.SW,DKSH HOLDING AG,Industries,0.01671,Suisse,SIX Swiss Exchange,CHF
+MF,MF.PA,WENDEL,Finance,0.01615,France,Nyse Euronext - Euronext Paris,EUR
+INW,INW.MI,INFRASTRUTTURE WIRELESS ITALIANE,La communication,0.0158,Italie,Borsa Italiana,EUR
+PUIG,PUIG.MC,PUIG BRANDS SA CLASS B,Biens de consommation de base,0.01576,Espagne,Bolsa De Madrid,EUR
+AMV0,AMV0.DE,AUMOVIO N,Biens de consommation cycliques,0.01575,Allemagne,Xetra,EUR
+KEMIRA,KEMIRA.HE,KEMIRA,Matériaux,0.01565,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+VID,VID.MC,VIDRALA SA,Matériaux,0.01544,Espagne,Bolsa De Madrid,EUR
+BPT,BPT.L,BRIDGEPOINT GROUP PLC,Finance,0.01539,Royaume-Uni,London Stock Exchange,GBP
+HOC,HOC.L,HOCHSCHILD MINING PLC,Matériaux,0.01519,Royaume-Uni,London Stock Exchange,GBP
+SOP,SOP.PA,SOPRA STERIA GROUP,Technologie de l'information,0.01506,France,Nyse Euronext - Euronext Paris,EUR
+HIAB,HIAB.HE,HIAB CORPORATION CLASS B,Industries,0.01493,Finlande,Nasdaq Omx Helsinki Ltd.,EUR
+BYG,BYG.L,BIG YELLOW GROUP PLC,Immobilier,0.01474,Royaume-Uni,London Stock Exchange,GBP
+WIHL,WIHL.ST,WIHLBORGS FASTIGHETER,Immobilier,0.01465,Suède,Nasdaq Omx Nordic,SEK
+BME,BME.L,B&M EUROPEAN VALUE RETAIL PLC,Biens de consommation cycliques,0.0146,Royaume-Uni,London Stock Exchange,GBP
+BUCN,BUCN.SW,BUCHER INDUSTRIES AG,Industries,0.01456,Suisse,SIX Swiss Exchange,CHF
+BAKKA,BAKKA.OL,BAKKAFROST,Biens de consommation de base,0.01455,Norvège,Oslo Bors Asa,NOK
+CAMX,CAMX.ST,CAMURUS,Santé,0.01451,Suède,Nasdaq Omx Nordic,SEK
+DLN,DLN.L,DERWENT LONDON REIT PLC,Immobilier,0.01451,Royaume-Uni,London Stock Exchange,GBP
+BAVA,BAVA.CO,BAVARIAN NORDIC,Santé,0.01434,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+CDI,CDI.PA,CHRISTIAN DIOR,Biens de consommation cycliques,0.01366,France,Nyse Euronext - Euronext Paris,EUR
+AMBU B,AMBU-B.CO,AMBU CLASS B,Santé,0.01331,Danemark,Omx Nordic Exchange Copenhagen A/S,DKK
+WALL B,WALL-B.ST,WALLENSTAM CLASS B,Immobilier,0.01318,Suède,Nasdaq Omx Nordic,SEK
+EZJ,EZJ.L,EASYJET PLC,Industries,0.01242,Royaume-Uni,London Stock Exchange,GBP
+SQN,SQN.SW,SWISSQUOTE GROUP HOLDING SA,Finance,0,Suisse,SIX Swiss Exchange,CHF
+LEGGR,LEGGR.DE,LEG IMMOBILIEN COUPON,Immobilier,0,Allemagne,Xetra,EUR
+--,--.PA,ESSILORLUXOTTICA SA COUPON,Santé,0,France,Nyse Euronext - Euronext Paris,EUR
