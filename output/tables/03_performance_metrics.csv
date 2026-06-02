@@ -1,0 +1,4 @@
+Stratégie,Rendement annualisé,Volatilité annualisée,Ratio de Sharpe,Max Drawdown,Durée Max DD (jours),Ratio de Calmar,% jours positifs
+Momentum (brut),12.47%,16.11%,0.811,-36.75%,28,0.339,56.7%
+Momentum (net),11.34%,16.10%,0.749,-36.81%,28,0.308,56.4%
+STOXX 600 (benchmark),6.46%,16.24%,0.467,-35.70%,28,0.181,53.8%
