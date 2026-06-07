@@ -1,0 +1,4 @@
+,Rendement annualisé,Volatilité ann.,Sharpe,Max Drawdown,Rendement total
+Stratégie ML,9.08%,20.07%,0.533,-21.81%,29.43%
+Stratégie naïve (12M),7.9%,15.16%,0.577,-21.74%,25.31%
+Benchmark STOXX 600,5.46%,14.2%,0.446,-17.79%,17.03%
