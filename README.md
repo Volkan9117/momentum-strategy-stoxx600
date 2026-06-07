@@ -217,7 +217,7 @@ Exécuter les notebooks dans l'ordre `01 → 02 → 03 → 04 → 05`.
 **ISLEYEN Volkan**
 
 L3 Économie-Gestion — Université Grenoble Alpes
-Erasmus — Université du Luxembourg
+— Erasmus Université du Luxembourg
 
 Profil orienté **finance de marché / quant**.
 
